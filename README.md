@@ -3,8 +3,8 @@
 Car Race is a 3D racing game project developed in Unity using C# in 2021.
 
 <p align="left">
-  <img src="main-menu.png" width="45%" alt="Main Menu">
-  <img src="starting-scene.png" width="45%" alt="Starting Scene">
+  <img src="assets/main-menu.png" width="45%" alt="Main Menu">
+  <img src="assets/starting-scene.png" width="45%" alt="Starting Scene">
 </p>
 
 ## Gameplay
@@ -14,27 +14,26 @@ Car Race is a 3D racing game project developed in Unity using C# in 2021.
 - The game also includes a main menu and a finish screen displaying the player's final time.
 - Several 3D models, including cars, wheels, buildings and environmental objects, were created in Blender and imported into Unity.
 
-![Car Race Crash](car-race-crash.gif)
+![Car Race Crash](assets/car-race-crash.gif)
 
 ### Short Gameplay Video
 
-[Watch the gameplay video](car-race-gameplay.mp4)
+[Watch the gameplay video](assets/car-race-gameplay.mp4)
 
 ## 3D Modelling
 
 I created 3D models in Blender and imported them into Unity to use them in the game. This project gave me practical experience in 3D modelling, working with meshes and materials, and integrating custom-made 3D assets into a Unity game.
 
 <p align="center">
-  <img src="red-car.png" height="200" alt="Red Car 3D Model">
-  <img src="grey-car.png" height="200" alt="Grey Car 3D Model">
+  <img src="assets/red-car.png" height="200" alt="Red Car 3D Model">
+  <img src="assets/grey-car.png" height="200" alt="Grey Car 3D Model">
 </p>
 
 <p align="center">
-  <img src="tire.png" height="200" alt="3D Tire Model">
-  <img src="street-props.png" height="200" alt="Street Props">
-  <img src="house.png" height="200" alt="3D Building Model">
+  <img src="assets/tire.png" height="200" alt="3D Tire Model">
+  <img src="assets/street-props.png" height="200" alt="Street Props">
+  <img src="assets/house.png" height="200" alt="3D Building Model">
 </p>
-
 
 ## Technologies
 
