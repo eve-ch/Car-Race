@@ -43,6 +43,17 @@ I created 3D models in Blender and imported them into Unity to use them in the g
 - 3D game development
 - 3D modelling
 
+
+## Development Process
+
+- Created 3D models in Blender, including cars, wheels,
+  buildings and environmental objects.
+- Imported the 3D models into Unity and used them
+  to build the racing environment.
+- Developed gameplay features in C#, including
+  lap tracking, a timer and a speedometer.
+
+
 ## Project Status
 
 The source code has not yet been published, as I plan to review the project before sharing it.
